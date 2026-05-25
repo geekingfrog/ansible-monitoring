@@ -7,7 +7,13 @@ This is an [Ansible](https://en.wikipedia.org/wiki/Ansible_(software)) playbook 
 
 ## Usage
 
+Some additional roles provided by ansible galaxy are required:
+```shell
+ansible-galaxy collection install -r requirements.yml
+```
+
 **TODO**
+
 
 ## Local testing
 
